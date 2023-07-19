@@ -1,3 +1,5 @@
+https://news.ycombinator.com/item?id=36785005
+
 # Advanced Python Mastery
 
 A course by David Beazley (https://www.dabeaz.com)  
